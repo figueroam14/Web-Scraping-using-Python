@@ -11,3 +11,4 @@ How to use:
 
 - Change URL in Line 7 to URL of choice
 - Change 'jpg' in line 9 to file type you want to scrape (ex: 'png', 'jpeg, 'a')
+- Output will be in urls.txt file
